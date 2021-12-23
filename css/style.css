@@ -40,7 +40,7 @@ button:hover {
     background: linear-gradient(to bottom, #696969, #575757);
 }
 button:active{
-    tranform: translateY(3px);
+    transform: translateY(3px);
     box-shadow: 0 6px 6px 0px rgba(0,0,0,0.3);
 }
 
